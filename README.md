@@ -13,7 +13,7 @@ However, AtliQ Grands lacks an internal analytics team, leading them to seek ext
 ## 🧭 Project Overview
 
 - **Client**: AtliQ Grands (Hospitality Sector)
-- **Duration**: July 2022
+- **Duration**: May, June, July 2022
 - **Goal**: Analyze operational and revenue data to identify issues and opportunities.
 - **Deliverables**:
   - A complete metrics dashboard
