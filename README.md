@@ -31,7 +31,7 @@ However, AtliQ Grands lacks an internal analytics team, leading them to seek ext
 5. **Pinpoint underperforming properties**, channels, and times of the month to optimize operations and marketing strategies.
 
 ---
-![Image](https://github.com/user-attachments/assets/2e2821ff-acd1-474c-8979-aad060997ce4)
+![Image](https://github.com/user-attachments/assets/d4f71d96-8f90-4913-b2f7-5ab2037bc881)
 ## 🔍 Key Insights
 
 - **Revenue Decline in July 2022**:  
